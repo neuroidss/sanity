@@ -2,8 +2,8 @@
   :description "Web visualisation of the HTM algorithm"
   :url "https://github.com/nupic-community/sanity"
 
-  :dependencies [[org.clojure/clojure "1.8.0-RC2"]
-                 [org.clojure/clojurescript "1.7.170"]
+  :dependencies [[org.clojure/clojure "1.8.0"]
+                 [org.clojure/clojurescript "1.7.228"]
                  [org.clojure/core.async "0.2.374"]
                  [tailrecursion/cljs-priority-map "1.1.0"]
                  [org.nfrac/comportex "0.0.14-SNAPSHOT"]
